@@ -28,3 +28,31 @@ Follow these steps to get the project up and running on your local machine.
 ```bash
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
+```
+
+2. **Install dependencies for the frontend**
+```bash
+cd frontend
+npm install
+```
+
+3. **Install dependencies for the backend**
+```bash
+cd ..
+cd backend
+npm install
+```
+
+4. **Install dependencies for the root directory**
+```bash
+cd ..
+npm install
+```
+
+5. **Start the application**
+```bash
+npm start
+```
+
+
+
