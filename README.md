@@ -22,8 +22,8 @@ Follow these steps to get the project up and running on your local machine.
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Mananjot17/pi-sync.git
+cd pi-sync
 ```
 
 2. **Install dependencies for the frontend**
