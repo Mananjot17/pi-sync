@@ -1,7 +1,3 @@
-# Project Name
-
-A brief description of what this project does and who it's for.
-
 ## State Diagram
 
 ![image](https://github.com/user-attachments/assets/ffa88163-0419-431d-bc69-4c1dec15f727)
@@ -9,7 +5,7 @@ A brief description of what this project does and who it's for.
 
 ## Documentation
 
-For detailed documentation, please visit our [Documentation](https://docs.google.com/document/d/17KfwKTam2xfZxg5DyI1GBWuqjAGT75xGyDxtBdnJztI/edit?usp=sharing).
+Decumentation [Documentation](https://docs.google.com/document/d/17KfwKTam2xfZxg5DyI1GBWuqjAGT75xGyDxtBdnJztI/edit?usp=sharing).
 
 ## Installation and Setup
 
